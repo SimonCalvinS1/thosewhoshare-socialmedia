@@ -3,9 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-main, .content{
-    margin-top: 80px;
-}
 body { font-family: 'Segoe UI', sans-serif; }
 
 .navbar{
