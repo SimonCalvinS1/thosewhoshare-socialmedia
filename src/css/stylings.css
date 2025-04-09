@@ -40,6 +40,22 @@ body{
     text-align: center;
 }
 
+.home-content {
+    text-align: center;
+    margin-top: 60px;
+    padding: 2rem;
+}
+.home-content h1 {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 1rem;
+}
+.home-content p {
+    font-size: 1.1rem;
+    color: #555;
+    margin: 0.5rem 0;
+}
+
 h1{
     font-size: 28px;
     margin-bottom: 20px;
